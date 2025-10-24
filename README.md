@@ -8,6 +8,7 @@ This repo covers everything related to the Siemens Edge Device from installation
 
 ## 🧰Hardware Requirements
 
+
 | Component | Minimum | Recommended |
 |-----------|-----------|-----------|
 | RAM (Memory) | 16 GB | 32 GB or higher |
