@@ -2,7 +2,7 @@
 This repo covers everything related to the Siemens Edge Device from installation and setup to complete deployment and usage (almost).
 
 <p align="center">
-  <img src="assets/image.png" width="400">
+  <img src="assets/p-st80-xx-03646v_original.png" width="400">
 </p>
 
 
