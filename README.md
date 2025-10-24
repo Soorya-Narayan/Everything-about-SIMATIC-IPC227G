@@ -57,6 +57,8 @@ This repo covers everything related to the Siemens Edge Device from installation
 
 ## 🌐Network Configuration
 
+(PS this was my network configuration, kindly use ur ip, you can find in your cmd using `ipconfig/all` and `arp -a` to identify unassigned network space)
+
 | Parameter | Value |
 |-----------|-----------|
 | IP Address | `192.168.1.140` |
