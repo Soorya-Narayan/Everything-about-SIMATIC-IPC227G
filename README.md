@@ -1,6 +1,11 @@
 #  📘SIMATIC IPC227G – Full Setup & Configuration
 This repo covers everything related to the Siemens Edge Device from installation and setup to complete deployment and usage (almost).
 
+<p align="center">
+  <img src="assets/image.png" width="400">
+</p>
+
+
 ## 🧰Hardware Requirements
 
 | Component | Minimum | Recommended |
