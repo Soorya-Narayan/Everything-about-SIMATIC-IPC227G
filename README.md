@@ -17,6 +17,7 @@ This repo covers everything related to the Siemens Edge Device from installation
 | Network Interface | 1 (Bridged mode) | - |
 | IP Configuration | Static IP required | - |
 
+
 ## 🖥️Software Requirements
 - VMware Workstation Pro (Version 16 or later) [Link](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
 - Siemens Account [Link](https://www.siemens.com/global/en.html)
