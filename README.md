@@ -64,8 +64,10 @@ This repo covers everything related to the Siemens Edge Device from installation
 | IP Address | `192.168.1.140` |
 | Subnet Mask | `255.255.255.0` | 
 | Gateway | `192.168.1.1` |
-| Primary DNS | `8.8.8.8` |
+| Primary DNS | `8.8.8.8` | 
 | Secondary DNS | `1.1.1.1` |
+
+The Primary DNS and Secondary DNS is google default.
 
 Click `Update`, wait for the system to apply changes, and refresh the page with the new IP.
 
